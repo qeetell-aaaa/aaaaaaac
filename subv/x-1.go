@@ -4,6 +4,6 @@ import (
 	"fmt"
 )
 
-func DoSome () {
+func DoSomeT () {
 	fmt.Println ("v0/1: 0.0.0 in subv")
 }
